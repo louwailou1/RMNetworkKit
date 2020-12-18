@@ -1,0 +1,7 @@
+NetworkTools.xcodeproj/xcuserdata/
+NetworkTools.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+NetworkTools.xcodeproj/project.xcworkspace/xcuserdata/
